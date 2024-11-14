@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I'm currently working on Data Visualization
+- 🌱 I’m currently learning R and Python
+- 🤔 I’m looking for help with Statistics for Gene/Protein expression
 <!--
 **JesusMald/JesusMald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
